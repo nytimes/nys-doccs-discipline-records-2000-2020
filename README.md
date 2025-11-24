@@ -1,6 +1,6 @@
 # New York State Prisons Disciplinary Records
 
-This repository contains New York State [Department of Corrections and Community Supervision](https://doccs.ny.gov/) (DOCCS) disciplinary records, initially obtained through a lawsuit by the [New York Civil Liberties Union](https://www.nyclu.org/) (NYCLU), and subsequently provided by the NYCLU to The New York Times. It also contains structured data extracted from those records, as well as official documentation from DOCCS.
+This repository contains New York State [Department of Corrections and Community Supervision](https://doccs.ny.gov/) (DOCCS) disciplinary records, initially obtained through a lawsuit by the [New York Civil Liberties Union](https://www.nyclu.org/) (NYCLU), and subsequently provided by the NYCLU to The New York Times. It also contains structured data extracted from those records, as well as official documentation from DOCCS. The records were used for [this November 24, 2025 article in The Times](https://www.nytimes.com/2025/11/24/nyregion/ny-prison-guards-abuse-brutality.html).
 
 ## Records
 
